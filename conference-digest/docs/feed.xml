@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+    <title>Weekly Conference Digest</title>
+    <link>https://yourusername.github.io/conference-digest/</link>
+    <description>Automated digest of academic conferences in Energy, Engineering, AI, ML, Environmental Science, and Economics</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Aug 2026 03:53:22 GMT</lastBuildDate>
+
+    <item>
+        <title>International Conference on Sustainable Energy Systems 2026</title>
+        <link>https://icse2026.example.com</link>
+        <description>Deadline: 2026-08-19 | Location: Kuala Lumpur, Malaysia | Topics: Energy, Renewable Energy, Sustainability, Power Systems</description>
+        <pubDate>Tue, 04 Aug 2026 03:53:22 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>Asia Pacific AI and Machine Learning Summit 2026</title>
+        <link>https://apaiml2026.example.com</link>
+        <description>Deadline: 2026-08-29 | Location: Singapore | Topics: Artificial Intelligence, Machine Learning, Deep Learning, Data Science</description>
+        <pubDate>Tue, 04 Aug 2026 03:53:22 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>International Conference on Environmental Engineering and Climate Change</title>
+        <link>https://iceecc2026.example.com</link>
+        <description>Deadline: 2026-09-08 | Location: Bangkok, Thailand | Topics: Environmental Engineering, Climate Change, Sustainability, Environmental Science</description>
+        <pubDate>Tue, 04 Aug 2026 03:53:22 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>European Conference on Energy Economics and Policy</title>
+        <link>https://eceep2026.example.com</link>
+        <description>Deadline: 2026-09-18 | Location: Berlin, Germany | Topics: Energy Economics, Environmental Economics, Economic Policy, Energy Policy</description>
+        <pubDate>Tue, 04 Aug 2026 03:53:22 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>Malaysia Green Technology and Sustainability Conference</title>
+        <link>https://mgts2026.example.com</link>
+        <description>Deadline: 2026-08-24 | Location: Cyberjaya, Malaysia | Topics: Green Technology, Sustainability, Environmental Science, Circular Economy</description>
+        <pubDate>Tue, 04 Aug 2026 03:53:22 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>International Conference on Smart Grid and Renewable Energy</title>
+        <link>https://icsgre2026.example.com</link>
+        <description>Deadline: 2026-09-03 | Location: Online/Hybrid | Topics: Smart Grid, Renewable Energy, Power Systems, Energy Storage</description>
+        <pubDate>Tue, 04 Aug 2026 03:53:22 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>Asia-Pacific Workshop on Industrial Engineering and Operations Research</title>
+        <link>https://apwieor2026.example.com</link>
+        <description>Deadline: 2026-09-23 | Location: Tokyo, Japan | Topics: Industrial Engineering, Operations Research, Optimization, Systems Engineering</description>
+        <pubDate>Tue, 04 Aug 2026 03:53:22 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>International Conference on Data Science and Artificial Intelligence Applications</title>
+        <link>https://icdsaia2026.example.com</link>
+        <description>Deadline: 2026-09-13 | Location: Sydney, Australia | Topics: Data Science, Artificial Intelligence, Machine Learning, Computer Vision</description>
+        <pubDate>Tue, 04 Aug 2026 03:53:22 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>Conference on Advances in Mechanical Engineering and Manufacturing</title>
+        <link>https://camem2026.example.com</link>
+        <description>Deadline: 2026-10-03 | Location: Penang, Malaysia | Topics: Mechanical Engineering, Manufacturing, Automation, Robotics</description>
+        <pubDate>Tue, 04 Aug 2026 03:53:22 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>International Symposium on Environmental Policy and Governance</title>
+        <link>https://isepg2026.example.com</link>
+        <description>Deadline: 2026-09-28 | Location: Amsterdam, Netherlands | Topics: Environmental Policy, Climate Policy, Sustainability, Environmental Economics</description>
+        <pubDate>Tue, 04 Aug 2026 03:53:22 GMT</pubDate>
+    </item>
+
+</channel>
+</rss>

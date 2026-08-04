@@ -1,0 +1,290 @@
+[
+  {
+    "title": "International Conference on Sustainable Energy Systems 2026",
+    "url": "https://icse2026.example.com",
+    "location": "Kuala Lumpur, Malaysia",
+    "country": "Malaysia",
+    "mode": "Hybrid",
+    "topics": [
+      "Energy",
+      "Renewable Energy",
+      "Sustainability",
+      "Power Systems"
+    ],
+    "abstract_deadline": "2026-08-19",
+    "conference_start_date": "2026-11-02",
+    "publisher": "IEEE",
+    "indexing": [
+      "Scopus",
+      "IEEE Xplore"
+    ],
+    "source": "ieee_malaysia",
+    "relevance_score": 0.92,
+    "urgency_level": "High",
+    "action_items": "Abstract submission closes soon - prepare immediately!",
+    "id": "conf_2026_001",
+    "first_seen": "2026-08-04",
+    "last_verified": "2026-08-04",
+    "status": "open",
+    "description": "Leading conference on Energy, Renewable Energy in Malaysia"
+  },
+  {
+    "title": "Asia Pacific AI and Machine Learning Summit 2026",
+    "url": "https://apaiml2026.example.com",
+    "location": "Singapore",
+    "country": "Singapore",
+    "mode": "In-Person",
+    "topics": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Deep Learning",
+      "Data Science"
+    ],
+    "abstract_deadline": "2026-08-29",
+    "conference_start_date": "2026-11-12",
+    "publisher": "Springer",
+    "indexing": [
+      "Scopus",
+      "EI Compendex"
+    ],
+    "source": "conference_alerts",
+    "relevance_score": 0.88,
+    "urgency_level": "Medium",
+    "action_items": "Full paper submission open - start drafting",
+    "id": "conf_2026_002",
+    "first_seen": "2026-08-04",
+    "last_verified": "2026-08-04",
+    "status": "open",
+    "description": "Leading conference on Artificial Intelligence, Machine Learning in Singapore"
+  },
+  {
+    "title": "International Conference on Environmental Engineering and Climate Change",
+    "url": "https://iceecc2026.example.com",
+    "location": "Bangkok, Thailand",
+    "country": "Thailand",
+    "mode": "Hybrid",
+    "topics": [
+      "Environmental Engineering",
+      "Climate Change",
+      "Sustainability",
+      "Environmental Science"
+    ],
+    "abstract_deadline": "2026-09-08",
+    "conference_start_date": "2026-11-22",
+    "publisher": "Elsevier",
+    "indexing": [
+      "Scopus"
+    ],
+    "source": "conference_alerts",
+    "relevance_score": 0.85,
+    "urgency_level": "Medium",
+    "action_items": "Full paper submission open - start drafting",
+    "id": "conf_2026_003",
+    "first_seen": "2026-08-04",
+    "last_verified": "2026-08-04",
+    "status": "open",
+    "description": "Leading conference on Environmental Engineering, Climate Change in Thailand"
+  },
+  {
+    "title": "European Conference on Energy Economics and Policy",
+    "url": "https://eceep2026.example.com",
+    "location": "Berlin, Germany",
+    "country": "Germany",
+    "mode": "Online",
+    "topics": [
+      "Energy Economics",
+      "Environmental Economics",
+      "Economic Policy",
+      "Energy Policy"
+    ],
+    "abstract_deadline": "2026-09-18",
+    "conference_start_date": "2026-12-02",
+    "publisher": "Taylor & Francis",
+    "indexing": [
+      "Web of Science",
+      "Scopus"
+    ],
+    "source": "wiki_cfp",
+    "relevance_score": 0.78,
+    "urgency_level": "Low",
+    "action_items": "Early stage - review CFP and plan submission",
+    "id": "conf_2026_004",
+    "first_seen": "2026-08-04",
+    "last_verified": "2026-08-04",
+    "status": "open",
+    "description": "Leading conference on Energy Economics, Environmental Economics in Germany"
+  },
+  {
+    "title": "Malaysia Green Technology and Sustainability Conference",
+    "url": "https://mgts2026.example.com",
+    "location": "Cyberjaya, Malaysia",
+    "country": "Malaysia",
+    "mode": "In-Person",
+    "topics": [
+      "Green Technology",
+      "Sustainability",
+      "Environmental Science",
+      "Circular Economy"
+    ],
+    "abstract_deadline": "2026-08-24",
+    "conference_start_date": "2026-10-28",
+    "publisher": "MDPI",
+    "indexing": [
+      "Scopus"
+    ],
+    "source": "um_events",
+    "relevance_score": 0.9,
+    "urgency_level": "High",
+    "action_items": "Abstract submission closes soon - prepare immediately!",
+    "id": "conf_2026_005",
+    "first_seen": "2026-08-04",
+    "last_verified": "2026-08-04",
+    "status": "open",
+    "description": "Leading conference on Green Technology, Sustainability in Malaysia"
+  },
+  {
+    "title": "International Conference on Smart Grid and Renewable Energy",
+    "url": "https://icsgre2026.example.com",
+    "location": "Online/Hybrid",
+    "country": "Online",
+    "mode": "Hybrid",
+    "topics": [
+      "Smart Grid",
+      "Renewable Energy",
+      "Power Systems",
+      "Energy Storage"
+    ],
+    "abstract_deadline": "2026-09-03",
+    "conference_start_date": "2026-11-07",
+    "publisher": "IEEE",
+    "indexing": [
+      "IEEE Xplore",
+      "Scopus"
+    ],
+    "source": "ieee_malaysia",
+    "relevance_score": 0.87,
+    "urgency_level": "Medium",
+    "action_items": "Full paper submission open - start drafting",
+    "id": "conf_2026_006",
+    "first_seen": "2026-08-04",
+    "last_verified": "2026-08-04",
+    "status": "open",
+    "description": "Leading conference on Smart Grid, Renewable Energy in Online"
+  },
+  {
+    "title": "Asia-Pacific Workshop on Industrial Engineering and Operations Research",
+    "url": "https://apwieor2026.example.com",
+    "location": "Tokyo, Japan",
+    "country": "Japan",
+    "mode": "In-Person",
+    "topics": [
+      "Industrial Engineering",
+      "Operations Research",
+      "Optimization",
+      "Systems Engineering"
+    ],
+    "abstract_deadline": "2026-09-23",
+    "conference_start_date": "2026-11-27",
+    "publisher": "Springer",
+    "indexing": [
+      "Scopus",
+      "EI Compendex"
+    ],
+    "source": "conference_alerts",
+    "relevance_score": 0.72,
+    "urgency_level": "Low",
+    "action_items": "Early stage - review CFP and plan submission",
+    "id": "conf_2026_007",
+    "first_seen": "2026-08-04",
+    "last_verified": "2026-08-04",
+    "status": "open",
+    "description": "Leading conference on Industrial Engineering, Operations Research in Japan"
+  },
+  {
+    "title": "International Conference on Data Science and Artificial Intelligence Applications",
+    "url": "https://icdsaia2026.example.com",
+    "location": "Sydney, Australia",
+    "country": "Australia",
+    "mode": "Hybrid",
+    "topics": [
+      "Data Science",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Computer Vision"
+    ],
+    "abstract_deadline": "2026-09-13",
+    "conference_start_date": "2026-11-17",
+    "publisher": "ACM",
+    "indexing": [
+      "Scopus",
+      "ACM Digital Library"
+    ],
+    "source": "wiki_cfp",
+    "relevance_score": 0.82,
+    "urgency_level": "Medium",
+    "action_items": "Full paper submission open - start drafting",
+    "id": "conf_2026_008",
+    "first_seen": "2026-08-04",
+    "last_verified": "2026-08-04",
+    "status": "open",
+    "description": "Leading conference on Data Science, Artificial Intelligence in Australia"
+  },
+  {
+    "title": "Conference on Advances in Mechanical Engineering and Manufacturing",
+    "url": "https://camem2026.example.com",
+    "location": "Penang, Malaysia",
+    "country": "Malaysia",
+    "mode": "In-Person",
+    "topics": [
+      "Mechanical Engineering",
+      "Manufacturing",
+      "Automation",
+      "Robotics"
+    ],
+    "abstract_deadline": "2026-10-03",
+    "conference_start_date": "2026-12-12",
+    "publisher": "IOP",
+    "indexing": [
+      "Scopus",
+      "EI Compendex"
+    ],
+    "source": "utm_events",
+    "relevance_score": 0.75,
+    "urgency_level": "Low",
+    "action_items": "Early stage - review CFP and plan submission",
+    "id": "conf_2026_009",
+    "first_seen": "2026-08-04",
+    "last_verified": "2026-08-04",
+    "status": "open",
+    "description": "Leading conference on Mechanical Engineering, Manufacturing in Malaysia"
+  },
+  {
+    "title": "International Symposium on Environmental Policy and Governance",
+    "url": "https://isepg2026.example.com",
+    "location": "Amsterdam, Netherlands",
+    "country": "Netherlands",
+    "mode": "Online",
+    "topics": [
+      "Environmental Policy",
+      "Climate Policy",
+      "Sustainability",
+      "Environmental Economics"
+    ],
+    "abstract_deadline": "2026-09-28",
+    "conference_start_date": "2026-12-07",
+    "publisher": "Elsevier",
+    "indexing": [
+      "Scopus",
+      "Web of Science"
+    ],
+    "source": "conference_alerts",
+    "relevance_score": 0.7,
+    "urgency_level": "Low",
+    "action_items": "Early stage - review CFP and plan submission",
+    "id": "conf_2026_010",
+    "first_seen": "2026-08-04",
+    "last_verified": "2026-08-04",
+    "status": "open",
+    "description": "Leading conference on Environmental Policy, Climate Policy in Netherlands"
+  }
+]
